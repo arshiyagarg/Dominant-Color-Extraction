@@ -8,4 +8,5 @@
   <li>numpy</li>
   <li>matplotlib</li>
   <li>cv2</li>
+  <li>sklearn</li>
 </ul>
