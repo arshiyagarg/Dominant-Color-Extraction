@@ -12,3 +12,7 @@
   <li>streamlit</li>
   <li>PIL</li>
 </ul>
+
+<h2>Demo Video</h2>
+https://github.com/user-attachments/assets/a12c6254-288d-4236-b6c4-2ff9381aa583
+
